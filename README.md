@@ -75,10 +75,17 @@ Key Concepts:
     Example:
     docker logs myapp-container
     This command retrieves the logs from the container named myapp-container.
-
     
 # Basic Docker Workflow
 * Write a Dockerfile: Define the application environment and dependencies in a Dockerfile.
 * Build the image: Use the docker build command to create an image from the Dockerfile.
 * Run a container: Use the docker run command to start the image as a container.
 * Push to Docker Hub (optional): Use docker push to upload your image to Docker Hub for sharing or deployment.
+
+# Screenshot of demonstration of Simple Docker Project using CPP && NodeJS  
+![Screenshot 2024-09-05 185647](https://github.com/user-attachments/assets/ad421802-109e-4036-92c1-1cb2513e38a0)
+![Screenshot 2024-09-05 210136](https://github.com/user-attachments/assets/373fe770-88ce-4141-b6d1-4c536726d158)
+![Screenshot 2024-09-05 210734](https://github.com/user-attachments/assets/06453a7a-95e6-4503-a2a3-4accff66f9b3)
+![Screenshot 2024-09-06 013801](https://github.com/user-attachments/assets/70acd8ce-a1d5-4c75-aa4c-4df77e429f52)
+![Screenshot 2024-09-06 221646](https://github.com/user-attachments/assets/77c74e93-d30a-4c1e-b584-dcb61487064d)
+![Screenshot 2024-09-06 221700](https://github.com/user-attachments/assets/4c12ec96-0df4-45d7-bd5a-62ef01239763)
